@@ -21,7 +21,7 @@
 
 **Example 1:**
 
-![Untitled](105%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorde%20a64b5054d1384d8aaddc586dc15aba12/Untitled.png)
+![Untitled](https://assets.leetcode.com/uploads/2021/02/19/tree.jpg)
 
 ```
 Input: preorder = [3,9,20,15,7], inorder = [9,3,15,20,7]
